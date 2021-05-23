@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.instagram.com/rcytrewq/" target="_blank">
-<img height="30" alt="Instagram" src="./public/instagram(1).png"/>
+<img height="30" alt="Instagram" src="./public/instagram (1).png"/>
 </a>
 </div>
 
