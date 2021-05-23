@@ -15,6 +15,6 @@ Since 2017 I'm researching in the area of ​​numerical methods applied to flu
 - Researcher at [UFJF](https://www2.ufjf.br/ufjf/)
 
 
-## 📈
+## Stats 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcytrewq&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/>
 ---
