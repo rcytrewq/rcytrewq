@@ -36,5 +36,5 @@ Since 2017 I'm researching in the area of ​​numerical methods applied to flu
 <br>
 
 ## Stats 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcytrewq&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcytrewq&layout=compact&theme=dark" width="400px" height="200px" style="margin-top: 20px"/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcytrewq&show_icons=true&locale=en" alt="rcytrewq" /></p>
 ---
