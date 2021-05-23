@@ -11,15 +11,15 @@
 <a href="https://www.linkedin.com/in/yurircorrea/" target="_blank">
 <img height="30" alt="LinkedIn" src="./public/linkedin.png"/>
 </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <a target="_blank" href="http://lattes.cnpq.br/8888890033493612" target="_blank">
     <img alt="Email" height="30" src="./public/lattes.png"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a target="_blank" href="mailto:correa.yuri@engenharia.ufjf.br" target="_blank">
     <img alt="Email" height="30" src="./public/gmail.png"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/rcytrewq/" target="_blank">
 <img height="30" alt="Instagram" src="./public/instagram.png"/>
 </a>
