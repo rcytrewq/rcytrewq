@@ -20,7 +20,7 @@
 </div>
 
 ## About me
-I'm graduated in Exact Sciences and currently majoring in Computational Engineering at Federal University of Juiz de Fora 🇧🇷.
+I'm graduated in Exact Sciences and currently majoring in Computational Engineering at Federal University of Juiz de Fora 🇧🇷.<br>
 Since 2017 I'm researching in the area of ​​numerical methods applied to fluid mechanics
 
 - 🌍 Teresópolis-RJ
