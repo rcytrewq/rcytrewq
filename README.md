@@ -1,12 +1,6 @@
 # Hello, I'm Yuri!
 
 ## Find me!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurircorrea/)](https://www.linkedin.com/in/yurircorrea/)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes-black?style=flat-square&logo=Lattes&logoColor=white&link=https://http://lattes.cnpq.br/8888890033493612/)](http://lattes.cnpq.br/8888890033493612/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:correa.yuri@engenharia.ufjf.br)](mailto:correa.yuri@engenharia.ufjf.br)
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://instagram.com/rcytrewq)](https://instagram.com/rcytrewq)
-
-
 
 <a href="https://www.linkedin.com/in/yurircorrea/" target="_blank">
 <img height="30" alt="LinkedIn" src="./public/linkedin.png"/>
@@ -21,7 +15,7 @@
 </a>
 
 <a href="https://www.instagram.com/rcytrewq/" target="_blank">
-<img height="30" alt="Instagram" src="./public/instagram.png"/>
+<img height="30" alt="Instagram" src="./public/instagram(1).png"/>
 </a>
 </div>
 
