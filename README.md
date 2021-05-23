@@ -8,8 +8,7 @@
 
 
 
-<div align="center">
-<a href="https://www.linkedin.com/in/yuricorrea/" target="_blank">
+<a href="https://www.linkedin.com/in/yurircorrea/" target="_blank">
 <img height="30" alt="LinkedIn" src="./public/linkedin.png"/>
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
