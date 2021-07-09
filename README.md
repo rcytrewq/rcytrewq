@@ -26,6 +26,7 @@ Since 2017 I'm researching in the area of ​​numerical methods applied to flu
 - 🌍 Teresópolis-RJ
 - 📍 Juiz de Fora-MG
 - Researcher at [UFJF](https://www2.ufjf.br/ufjf/)
+- Software Engineering Intern at [LEVTY](https://www.levty.com/) 
 
 <h3 align="left">Languages and Tools:</h3>
 -Experienced <br>
